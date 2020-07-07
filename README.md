@@ -21,7 +21,7 @@
 > * Security Alerts
 
 #### Staff Product Manager
-**Mozilla : Product**
+**Mozilla 🔥 🦊 : Product**
 *Oct 2013 - Sep 2017 : 3 yrs 11 mos*
 > * Developer Tools
 > * Windows 10
@@ -30,26 +30,26 @@
 > * Search
 
 #### User Experience Manager
-**Mozilla : UX**
+**Mozilla 🎨: UX**
 *Feb 2012 - Oct 2013 : 1 yrs 9 mos*
 > * 7 Direct Reports
 > * Firefox OS Marketplace
 
 #### Lead Designer
-**Mozilla : Labs**
+**Mozilla 🥼: Labs**
 *May 2011 - Apr 2012 : 1 yr*
 > * BrowserID
 > * Raindrop, Deuxdrop
 
 #### Head of Design
-**Mozilla Messaging**
+**Mozilla Messaging 💌**
 *Mar 2008 - Jan 2011 : 2 yrs 11 mos*
 > * 2 Direct Reports
 > * F1 Sharing
 > * Thunderbird
 
 #### Interaction Designer
-**Red Hat**
+**Red Hat 🎩**
 *Oct 2013 - Feb 2008 : 3 yrs 11 mos*
 > * Water Cooler
 > * Mugshot
@@ -76,4 +76,4 @@
 |:bird: | [@clarkbw](https://twitter.com/clarkbw)|
 |:octocat: | [clarkbw](https://github.com/clarkbw/)|
 
-Dual :us: & :canada: Citizen
+Dual Citizen, authorized to work in the :us: & :canada: 
