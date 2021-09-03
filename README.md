@@ -2,7 +2,7 @@
 
 ![»](https://user-images.githubusercontent.com/2134/28605762-42f16bf0-7188-11e7-847a-7d05b7cf97a4.png)
 
-*Developing dynamic strategies while building amazing teams of product managers that can plan and execute on a vision.*
+*Experienced leader in product management with over 20 years working in software design, engineering, and open source. Passionate about creating products that delight customers based on feedback and business needs.*
 
 ## Experience :zap:
 
@@ -28,6 +28,8 @@
 > * Code Review and Pull Requests
 > * Issue Templates
 > * Security Alerts
+> * Token Scanning
+> GitHub was acquired by MSFT in 2018
 
 #### Staff Product Manager
 **Mozilla : Product**
@@ -42,29 +44,29 @@
 **Mozilla : UX**
 *Feb 2012 - Oct 2013 : 1 yrs 9 mos*
 > * 7 Direct Reports
-> * Firefox OS Marketplace
+> * Firefox OS Marketplace designs
 
 #### Lead Designer
 **Mozilla : Labs**
 *May 2011 - Apr 2012 : 1 yr*
-> * BrowserID
-> * Raindrop, Deuxdrop
+> * BrowserID designer
+> * Raindrop, Deuxdrop messaging experimentation
 
 #### Head of Design
 **Mozilla Messaging**
 *Mar 2008 - Jan 2011 : 2 yrs 11 mos*
 > * 2 Direct Reports
-> * F1 Sharing
-> * Thunderbird
+> * F1 Sharing designed and developed
+> * Thunderbird design lead
 
 #### Interaction Designer
 **Red Hat**
 *Oct 2013 - Feb 2008 : 3 yrs 11 mos*
-> * Water Cooler
-> * Mugshot
-> * 1 Laptop Per Child
-> * GNOME Desktop
-> * GNOME HIG
+> * Water Cooler skunk works project
+> * Mugshot offshootj
+> * 1 Laptop Per Child design lead
+> * GNOME Desktop contributor
+> * GNOME HIG contributor
 
 ## Education :books:
 
