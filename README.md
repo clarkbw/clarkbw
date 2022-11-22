@@ -17,7 +17,14 @@ I view my product work as a craft and am constantly trying to improve my process
 #### Sr. Director of Product
 **Timescale : Cloud**
 *July 2021 - Present*
-> * AoR Timescale Cloud
+> Timescale provides a supercharged Postgres database cloud platform, Timescale Cloud, optimized for developers working with a relentless stream of time series data. 
+>
+> I lead the Timescale Cloud product group which is primarily responsible for the future growth and revenue of the company. Working with my team, engineering, marketing, sales, and support leads to focus and prioritize our efforts on the most important work ahead.
+>
+> Year 1 stats:
+> - 300% increase in customer base
+> - 100% increase in new customer acquisition
+> - 400% increase in revenue (20% MoM)
 
 #### Director of Product
 **GitHub : Product**
