@@ -2,15 +2,7 @@
 
 ![»](https://user-images.githubusercontent.com/2134/28605762-42f16bf0-7188-11e7-847a-7d05b7cf97a4.png)
 
-I'm obsessed with how things work, I've been a tinkerer my whole life. My second computer I built by myself from scratch. I grew up taking things apart, putting them back together and asking endless "why questions". Why is this this way? Why can't it be this way? This curiosity is what makes me an excellent product person. I love the how and why of things.
-
-I graduated from university with my bachelors and masters in computer science w/ a concentration in psychology and human computer interaction. Which lead me quickly, not into programming, but into the world of interaction design where I could work directly with customers on wireframe prototypes and build out the framework for solving problems with software.
-
-From design I eventually jumped into product management where I felt I could combine my design and tech background to accelerate how design and engineering teams can work together.
-
-I've worked on client side applications (Thunderbird and Firefox) as well as cloud based services (Mozilla Services, GitHub, Timescale) and am looking forward to learning even more.
-
-I view my product work as a craft and am constantly trying to improve my processes and output. Happy to connect with others who want to talk about product process, technology, and cycling.
+To learn more about me see my [README](./README.md)
 
 ## Experience :zap:
 
@@ -93,13 +85,17 @@ I view my product work as a craft and am constantly trying to improve my process
 **BS, Computer Science**
 *1997 - 2002*
 
-### Contact
+## Work Status
+
+Dual :us: & :canada: Citizenship
+Remote work preferred
+
+## Contact 
 
 | | |
 |:----:|:---:|
 |:link: | [LinkedIn](https://www.linkedin.com/in/clarkbw/)|
 |:incoming_envelope: | [clarkbw@gmail.com](mailto:clarkbw@gmail.com)|
 |:bird: | [@clarkbw](https://twitter.com/clarkbw)|
-|:octocat: | [clarkbw](https://github.com/clarkbw/)|
 
-Dual :us: & :canada: Citizen
+
