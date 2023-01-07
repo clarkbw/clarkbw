@@ -1,14 +1,12 @@
-### Hi there, I am Bryan 👋
+### Hello there, I'm Bryan 👋
 
-I'm obsessed with how things work, I've been a tinkerer my whole life. My second computer I built by myself from scratch. I grew up taking things apart, putting them back together and asking endless "why questions". Why is this this way? Why can't it be this way? This curiosity is what makes me an excellent product person. I love the how and why of things.
+I am a product manager, developer, and designer; seriously I studied computer science, started my career as a designer and now combine all that into my product management work. 
 
-I graduated from university with my bachelors and masters in computer science w/ a concentration in psychology and human computer interaction. Which lead me quickly, not into programming, but into the world of interaction design where I could work directly with customers on wireframe prototypes and build out the framework for solving problems with software.
+I've been a tinkerer my whole life, I'm obsessed with how things work. My first computer was a Tandy Sensation which I hacked away at to make it play the latest games.  My second computer I built by myself from parts. I grew up taking things apart, putting them back together and asking endless "why questions". Why is this this way? Why can't it be this way? This curiosity is my super power, I don't stop asking why until I understand things. I love the how and why of things.
 
-From design I eventually jumped into product management where I felt I could combine my design and tech background to accelerate how design and engineering teams can work together.
+I've worked on the Linux Kernel, GNOME Desktop, client side applications (Thunderbird and Firefox) as well as cloud based services (Mozilla Services, GitHub, Timescale) and am looking forward to learning even more.
 
-I've worked on client side applications (Thunderbird and Firefox) as well as cloud based services (Mozilla Services, GitHub, Timescale) and am looking forward to learning even more.
-
-I view my product work as a craft and am constantly trying to improve my processes and output. Happy to connect with others who want to talk about product process, technology, and cycling.
+I view my product work as a craft and am constantly trying to improve my processes and output. Happy to connect with others who want to talk about product process, technology, oh and cycling 🚴
 
 - 👉 Check out where I work now 🐯 [Timescale](https://timescale.com)
 - 👉 Connect with me on :link: [LinkedIn](https://www.linkedin.com/in/clarkbw/) 
