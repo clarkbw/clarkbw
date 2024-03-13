@@ -8,7 +8,7 @@ I've worked on the Linux Kernel, GNOME Desktop, client side applications (Thunde
 
 I view my product work as a craft and am constantly trying to improve my processes and output. Happy to connect with others who want to talk about product process, technology, oh and cycling 🚴
 
-- 👉 Check out where I work now 🐯 [Timescale](https://timescale.com)
+- 👉 Check out where I work now [Neon](https://neon.tech/)
 - 👉 Connect with me on :link: [LinkedIn](https://www.linkedin.com/in/clarkbw/) 
 - 👉 Follow me on :bird: [Twitter](https://twitter.com/clarkbw) 
 - 👉 Reach out over :incoming_envelope: [Email](mailto:clarkbw@gmail.com) (slower to respond)
